@@ -6,6 +6,7 @@ A python pacakge for the bootcamp.
 # Add imports here
 from .functions import *
 from .atom_data import *
+from .measure import *
 
 # Handle versioneer
 from ._version import get_versions
